@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:48:14.663Z",
+  "generated_at": "2026-10-29T01:48:16.522Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -49,7 +49,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-20T08:13:38.749Z",
-      "last_pushed_at": "2026-10-20T08:13:38.749Z"
+      "last_pushed_at": "2026-10-29T01:48:16.521Z"
     },
     "math:2": {
       "kind": "math",
@@ -60,7 +60,7 @@
       "url": "https://www.deep-ml.com/math-problems/2",
       "path": "math/0002-multivariate-calculus",
       "first_solved_at": "2026-10-20T08:16:34.356Z",
-      "last_pushed_at": "2026-10-20T08:16:34.356Z"
+      "last_pushed_at": "2026-10-29T01:48:16.521Z"
     },
     "problem:1532": {
       "kind": "problem",
