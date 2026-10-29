@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T01:48:13.015Z",
+  "generated_at": "2026-10-29T01:48:14.663Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -61,6 +61,19 @@
       "path": "math/0002-multivariate-calculus",
       "first_solved_at": "2026-10-20T08:16:34.356Z",
       "last_pushed_at": "2026-10-20T08:16:34.356Z"
+    },
+    "problem:1532": {
+      "kind": "problem",
+      "id": "1532",
+      "title": "Transformer Warmup Learning-Rate Schedule",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1532",
+      "path": "problems/1532-transformer-warmup-learning-rate-schedule",
+      "first_solved_at": "2026-10-29T01:46:46.183Z",
+      "last_pushed_at": "2026-10-29T01:46:46.183Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
